@@ -5,6 +5,6 @@
 #ignore files with extension .settings
 .settings/
 #ignore private netbeans project configuration
-/nbproject/private/
+#/nbproject/private/
 #ignore contents inside buid folder
-/build/
+#/build/
