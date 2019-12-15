@@ -1,0 +1,10 @@
+#ignore files with extension .classpath
+.classpath
+#ignore files with extension .project
+.project
+#ignore files with extension .settings
+.settings/
+#ignore private netbeans project configuration
+nbproject/private/
+#ignore contents inside buid folder
+build/
